@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'door'
+}
+
+item {
+  id: 2
+  name: 'handle'
+}
+
+item {
+  id: 3
+  name: 'cabinet door'
+}
+
+item {
+  id: 4
+  name: 'refrigerator door'
+}
